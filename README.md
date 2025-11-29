@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Playing around with GitHub pages!
 <!--
 **imaginaryg00se/imaginaryg00se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
